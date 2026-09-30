@@ -1,0 +1,1 @@
+# singapore-static-residential-ip
